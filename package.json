@@ -32,11 +32,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nbFrank/frank-img-module.git"
+    "url": "git+https://github.com/nbFrank/frank-img-module.git"
   },
   "author": "Dk Saha",
   "license": "MIT",
   "dependencies": {
     "xmldom": "^0.1.27"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/nbFrank/frank-img-module/issues"
+  },
+  "homepage": "https://github.com/nbFrank/frank-img-module#readme"
 }
