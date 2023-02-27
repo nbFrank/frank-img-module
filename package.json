@@ -1,7 +1,7 @@
 {
-  "name": "docxtemplater-image-module-free",
+  "name": "frank-img-module",
   "version": "1.1.1",
-  "description": "Open Source Image Module for docxtemplater",
+  "description": "Open Source Image Module for frank",
   "main": "js/index.js",
   "scripts": {
     "test:coverage": "istanbul cover _mocha --  es6/test.js",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/evilc0des/docxtemplater-image-module-free"
+    "url": "https://github.com/nbFrank/frank-img-module.git"
   },
   "author": "Dk Saha",
   "license": "MIT",
